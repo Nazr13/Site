@@ -1,0 +1,61 @@
+body{
+    font-family: sans-serif;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(41, 72, 73);
+    color: white;
+    padding: 10px;
+}
+
+header a{
+    background-color: slateblue;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 25px;
+    text-decoration: none;
+}
+
+header img{
+    height: 25px;
+}
+
+h1 {
+    border:1px dashed black;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    color: rgb(0, 0, 0);
+    background-image: url(https://drive.google.com/uc?export=view&id=1z6flj2011LlCjCbOn_SlWKZhNKJWQP2T);
+}
+
+main img{
+    height: 300px;
+}
+
+.p{
+    border:1px dashed black;
+    font-size: 20px;
+    padding: 5px;
+}
+
+footer img{
+    height: 30px;
+}
+
+footer{
+    text-align: left;
+    background-color: rgb(41, 72, 73);
+}
+
+footer p{
+    color: white;
+    font-size: 16px;
+}
+
+ul{
+    text-align: left;
+}
